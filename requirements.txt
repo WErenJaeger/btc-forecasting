@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+yfinance
+prophet
+statsmodels
+lightgbm
+scikit-learn
+jupyter
